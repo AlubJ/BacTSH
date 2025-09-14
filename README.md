@@ -30,7 +30,7 @@ BacTSH is a texture page tool for TtGames' games after LEGO Batman 3: Beyond Got
  - Windows 10 - 11
 
 ## Compatible Games
-This table outlines which games are compatable with BactaTank Classic. It includes "classic" era LEGO games developed by TtGames/Traveller's Tales, as well as some of their other games based on similar revisions of the engine.
+This table outlines which games are compatible with BacTSH. It includes "DX11" era LEGO games developed by TtGames/Traveller's Tales.
 
 | Game                                        |    Supported   |
 | ------------------------------------------- | -------------- |
