@@ -79,7 +79,7 @@ VERSIONS = {
 	main: "v0.0.1",
 	renderer: "v0.0.1",
 	backend: "v0.0.1",
-	revision: "3",
+	revision: "4",
 }
 
 VERSION_TAG = $"{game_display_name} | {VERSIONS.indev ? "dev_": ""}{VERSIONS.main}{VERSIONS.revision != 0 ? "_rev" + VERSIONS.revision : ""}";
