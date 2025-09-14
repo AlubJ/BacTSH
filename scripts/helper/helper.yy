@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"helper",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"helper",
+  "parent":{
+    "name":"BacTSH",
+    "path":"BacTSH.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

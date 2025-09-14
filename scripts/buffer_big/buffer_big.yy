@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"buffer_big",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"buffer_big",
+  "parent":{
+    "name":"TexturePage",
+    "path":"folders/TexturePage.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,12 @@
+Things To Do:
+ - Add All Edit Functions
+ - Add selecting icons
+ - Add removing icons
+ - Add icon edit panel (edit the name and padding values and whatnot
+ - Add about modal
+ - Update theme to match bactatanks default dark
+ - Make sure everything gets cleaned up correctly
+ - Add info modals to things that take a while to do (saving especially)
+ - Update icon to the final icon
+ - Update credits to add everyone that helped with this tool
+ - Validate that it works in all DX11 games

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"InfoModal",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"InfoModal",
+  "parent":{
+    "name":"Dialogs",
+    "path":"folders/Environment/Modals/Dialogs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

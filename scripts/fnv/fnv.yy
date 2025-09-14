@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"fnv",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"fnv",
+  "parent":{
+    "name":"TexturePage",
+    "path":"folders/TexturePage.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

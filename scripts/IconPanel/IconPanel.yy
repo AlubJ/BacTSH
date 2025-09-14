@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"IconPanel",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"IconPanel",
+  "parent":{
+    "name":"Environment",
+    "path":"folders/Environment.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"trimSprite",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"trimSprite",
+  "parent":{
+    "name":"TexturePage",
+    "path":"folders/TexturePage.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

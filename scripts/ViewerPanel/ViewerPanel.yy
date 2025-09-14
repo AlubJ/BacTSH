@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ViewerPanel",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ViewerPanel",
+  "parent":{
+    "name":"Environment",
+    "path":"folders/Environment.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
